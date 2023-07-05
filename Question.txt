@@ -1,0 +1,9 @@
+NodeJS Assignment 1 
+1. You need to create a server using http module. 
+2. When you make a GET request,read JSON from a text.json file and append this data to an object. 
+3. Write the retrieved data into some other text file data.txt. 
+4. Once writing to the file is complete, return the JSON in response of the GET call that was made through the browser. 
+
+Outputs: 
+1. Data written into the data.txt file. 
+2. JSON to be displayed on browser when you hit http://localhost:8080/
